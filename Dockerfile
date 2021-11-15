@@ -1,1 +1,2 @@
 FROM ubuntu
+run apt
